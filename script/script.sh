@@ -1,5 +1,3 @@
-#!/bin/bash
-
 plgn=$1
 thm=$2
 exp=$3
